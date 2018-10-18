@@ -270,14 +270,14 @@ scholar:
   sort_by: none
   order: ascending
 
-  source: ./_research
+  source: ./_publications
   bibliography: bibCesar.bib
   bibliography_template: "{{reference}}"
 
   replace_strings: true
   join_strings:    true
 
-  details_dir:    _research
+  details_dir:    _publications
   details_layout: bibtex.html
   details_link:   Details
 
