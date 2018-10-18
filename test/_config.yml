@@ -253,7 +253,7 @@ compress_html:
 
 # Collections
 collections:
-  recipes:
+  research:
     output: true
     permalink: /:collection/:path/
   pets:
@@ -302,13 +302,13 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _recipes
+  # _research
   - scope:
       path: ""
-      type: recipes
+      type: research
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
   # _pets
   - scope:
