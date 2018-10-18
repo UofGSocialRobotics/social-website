@@ -227,6 +227,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-scholar
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -236,6 +237,7 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-scholar
 
 
 # Archives
@@ -282,9 +284,12 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: splash
       author_profile: true
       read_time: true
       comments: # true
       share: true
       related: true
+      classes:
+        - landing
+        - dark-theme

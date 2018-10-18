@@ -10,7 +10,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minimal Mistakes Development Test Site"
+title                    : "SocIAL Group"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "Minimal Mistakes theme test."
@@ -201,6 +201,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-scholar
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -210,6 +211,7 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-scholar
 
 
 # Archives
@@ -261,6 +263,25 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: none
+  order: ascending
+
+  source: ./_research
+  bibliography: bibCesar.bib
+  bibliography_template: "{{reference}}"
+
+  replace_strings: true
+  join_strings:    true
+
+  details_dir:    _research
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
 
 # Defaults
 defaults:
