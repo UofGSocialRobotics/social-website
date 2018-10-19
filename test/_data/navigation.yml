@@ -4,16 +4,17 @@ main:
     url: /
   - title: "Research"
     url: /research/
-    sidebar:          # currently disabled in research-archive.html
-      nav: "docs"
   - title: "Team"
     url: /team/
+    sidebar:
+      nav: "docs"
   - title: "Publications"
     url: /publications/
   - title: "News"
     url: /news/
   - title: "Contact"
     url: /contact/
+
 
 docs:
   - title: Getting Started
