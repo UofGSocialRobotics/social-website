@@ -1,6 +1,7 @@
 ---
 title: "Ginger Gulp Identity"
 excerpt: "Ginger Gulp design system including logo mark, website design, and branding applications."
+date: 2018-10-09
 header:
   image: /assets/images/unsplash-gallery-image-3.jpg
   teaser: assets/images/unsplash-gallery-image-3-th.jpg
