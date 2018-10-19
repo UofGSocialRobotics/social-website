@@ -11,7 +11,7 @@ sidebar:
   - title: "Email"
     text: "stacy.marsella@glasgow.ac.uk"
   - title: Personal Site
-    text: <a href=http://www.ccs.neu.edu/~marsella/Stacy_Marsella_Homepage/Stacy_Marsella_Homepage.html> Stacy Marsella </a>
+    text: <a href="http://www.ccs.neu.edu/~marsella/Stacy_Marsella_Homepage/Stacy_Marsella_Homepage.html"> Stacy Marsella </a>
 
 ---
 
@@ -23,6 +23,7 @@ Professor Marsella’s multidisciplinary research is grounded in the computation
 
 Professor Marsella’s leadership positions in computer science include serving as a general chair of AAMAS (Autonomous Agents and Multiagent Systems) and chair of IVA (Intelligent Virtual Agents). In 2010, he received an ACM SIIGART career award for his contributions to agent research. He is an associate editor of the IEEE Transactions on Affective Computing, currently is a board member of the International Foundation for Autonomous Agents and Multiagent Systems, and is on the steering committee for IVA. He is a fellow of the Society of Experimental Social Psychologists, a member of AAAI and a member of the International Society for Research on Emotions.
 
+{% bibliography --query @*[author^=Marsella] %}
 
 <!-- uncomment this and put in above yaml for gallery -->
 <!-- gallery:

@@ -31,4 +31,4 @@ How virtual humans can make a difference to individuals’ social-lives.
 <b>What are your research or career goals, going forward?</b>
 I have always nurtured a strong passion in pursuing a career of teaching and researching.
 
-{% bibliography --query @*[author=\bFeng\b] %}
+{% bibliography --query @*[author^=Feng] %}

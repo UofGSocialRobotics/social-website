@@ -12,17 +12,7 @@ sidebar:
   - title: "Email"
     text: "carolyn.saund@gmail.com"
   - title: "Personal Site"
-    text: <a href="http://carolynsaund.me">CarolynSaund.me</a>
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+    text: <a href="http://carolynsaund.me">Carolyn Saund</a>
 ---
 
 My current work is creating a generative gesture system for virtual humans to study how gesture can help virtual and robotic agents better communicate with humans, and instill trust during human-agent interactions. At the same time, I am using combined MEG and fMRI imaging to determine how our brain integrates features of motion in visual perception to make judgements about the communicative meaning of these gestures. In this sense, I hope to make both a “bottom-up” neurological and a “top-down” behavioral analysis of gestural communication to obtain a fuller picture of human-agent communication.
