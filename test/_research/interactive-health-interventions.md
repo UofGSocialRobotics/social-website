@@ -1,9 +1,11 @@
 ---
-title: "Peanut Butter Cookies"
+title: "Interactive Health Interventions"
 collection-archive: "research"
+date: 2012-10-10
+
 ---
 
-A peanut butter cookie is a type of cookie that is distinguished for having peanut butter as a principal ingredient. The cookie generally originated in the United States, its development dating back to the 1910s.
+Interactive Pedagogical Dramas are compelling interactive stories that have didactic purpose. Autonomous agents realize the characters in the drama, which unfolds based on user interaction.
 
 ## Ingredients
 

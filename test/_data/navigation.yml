@@ -4,6 +4,8 @@ main:
     url: /
   - title: "Research"
     url: /research/
+    sidebar:
+      nav: "research-sidebar"
   - title: "Team"
     url: /team/
     sidebar:
@@ -15,6 +17,21 @@ main:
   - title: "Contact"
     url: /contact/
 
+research-sidebar:
+  - title: "Our Research"
+    children:
+      - title: "Chocolate Chip Research"
+        url: /research/chocolate-chip-cookies
+  - title: "Previous Work (CESAR Lab)"
+    children:
+      - title: "Social Training"
+        url: /research/social-training
+      - title: "Virtual Human Embodiment"
+        url: "/research/virtual-human-embodiment"
+      - title: "Cerebella"
+        url: "/research/cerebella"
+      - title: "Interactive Health Interventions"
+        url: "/research/interactive-health-interventions"
 
 docs:
   - title: Getting Started
