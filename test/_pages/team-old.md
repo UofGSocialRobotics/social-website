@@ -28,30 +28,35 @@ directors:
     title: "Stacy Marsella"
     excerpt: "Primary Investigator and Director of cSCAN Institute at University of Glasgow."
     url: /team/stacymarsella
+    btn_label: " "
 postdocs:
   - image_path: /assets/images/mathieuchollet.jpeg
     alt: "Mathieu Chollet"
     title: "Mathieu Chollet"
     excerpt: "Research Fellow"
     url: /team/mathieuchollet
+    btn_label: " "
 visiting:
   - image_path: /assets/images/danfeng.jpg
     alt: "Dan Feng"
     title: "Dan Feng"
     excerpt: 'Visiting Scholar <br> PhD Candidate, Northeastern University'
     url: /team/danfeng
+    btn_label: " "
 grads:
   - image_path: /assets/images/carolynsaund.jpg
     alt: "Carolyn Saund"
     title: "Carolyn Saund"
     url: "/team/carolynsaund"
     excerpt: 'PhD Student'
+    btn_label: " "
 undergrads:
   - image_path: /assets/images/marionroth.jpg
     alt: "Mary Roth"
     title: "Mary Roth"
     excerpt: '4th Year Student at University of Strathclyde'
     url: /team/marionroth
+    btn_label: " "
 ---
 
 {% include feature_row id="intro" type="center" %}

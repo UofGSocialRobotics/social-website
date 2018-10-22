@@ -12,6 +12,8 @@ sidebar:
     text: "stacy.marsella@glasgow.ac.uk"
   - title: Personal Site
     text: <a href="http://www.ccs.neu.edu/~marsella/Stacy_Marsella_Homepage/Stacy_Marsella_Homepage.html"> Stacy Marsella </a>
+btn_label: "Bla bla"
+more_label: "Bla bla"
 
 ---
 

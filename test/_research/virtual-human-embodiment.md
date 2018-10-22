@@ -8,9 +8,9 @@ gallery:
     alt: "Virtual Human Embodiment"
 ---
 
-{% include gallery %}
-
 The Virtual Human Embodiment project computationally models the relation between mind and body. One outcome of this research is Cerebella, a framework for automated generation of virtual human.
+
+{% include gallery %}
 
 ### Personnel
 

@@ -10,9 +10,9 @@ gallery:
     alt: "Health Interventions"
 ---
 
-{% include gallery %}
-
 Interactive Pedagogical Dramas are compelling interactive stories that have didactic purpose. Autonomous agents realize the characters in the drama, which unfolds based on user interaction.
+
+{% include gallery %}
 
 ## About
 
