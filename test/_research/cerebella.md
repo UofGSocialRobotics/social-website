@@ -7,20 +7,24 @@ date: 2013-10-10
 
 Cerebella automates the generation of physical behaviors for virtual humans, including nonverbal behaviors accompanying the virtual humans dialog, responses to perceptual events as well as listening.
 
-## Ingredients
+<a href="https://web.northeastern.edu/cesar/wp-content/uploads/2014/12/virtualcharacterperformancefromaudioClip1.mov">Download Here</a>
 
-* 1 cup unsalted butter
-* 1 cup crunchy peanut butter
-* 1 cup white sugar
-* 1 cup packed brown sugar
-* 2 eggs 2
-* 1/2 cups all-purpose flour
-* 1 teaspoon baking powder
-* 1/2 teaspoon salt
-* 1 1/2 teaspoons baking soda
+## About
 
-## Directions
+Cerebella automates the generation of physical behaviors for virtual humans, including nonverbal behaviors accompanying the virtual humans dialog, responses to perceptual events as well as listening behaviors. Modular processing pipelines transform the input into behavior schedules, written in the Behavior Markup Language and then passed to a character animation system.
 
-1. Cream butter, peanut butter, and sugars together in a bowl; beat in eggs.
-2. In a separate bowl, sift flour, baking powder, baking soda, and salt; stir into butter mixture. Put dough in refrigerator for 1 hour.
-3. Roll dough into 1 inch balls and put on baking sheets. Flatten each ball with a fork, making a crisscross pattern. Bake in a preheated 375 degrees F oven for about 10 minutes or until cookies begin to brown.
+Designed as a highly flexible and extensible component, Cerebella realizes a robust process that supports a variety of use patterns. For example, to generate the character’s nonverbal behavior for an utterance, Cerebella can take as input detailed information about a character’s mental state (e.g., emotion, attitude, etc.) and communicative intent. On the other hand, in the absence of such information, Cerebella will analyze the utterance text and prosody to infer that information. It can be used online to generate behavior in real-time or offline to generate behavior schedules that will be cached for later use. Offline use has allowed Cerebella to be incorporated into behavior editors that support mixed initiative, iterative design of behavior schedules with a human author, whereby Cerebella and the human author can iterate over a cycle of Cerebella behavior schedule generation and human author modification the schedule.
+
+The above clip is an example of Cerebella performing nonverbal behavior generation and listening behaviors just using the analysis of the utterance text and audio.
+
+## Personnel
+
+* Stacy Marsella, PhD
+* Teresa Dey, MFA
+* Margot Lhommet, PhD
+
+### Former Personnel:
+* Jina Lee, PhD
+* Yuyu Xu, PhD
+
+### <a href="https://web.northeastern.edu/cesar/?page_id=187">Publication</a>

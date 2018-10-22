@@ -2,25 +2,26 @@
 title: "Virtual Human Embodiment"
 collection-archive: "research"
 date: 2014-10-10
-
+gallery:
+  - url: https://web.northeastern.edu/cesar/wp-content/uploads/2014/12/unity_ellie_gesture_diphone.mp4?_=1
+    image_path: https://web.northeastern.edu/cesar/wp-content/uploads/2014/12/unity_ellie_gesture_diphone.mp4?_=1
+    alt: "Virtual Human Embodiment"
 ---
+
+{% include gallery %}
 
 The Virtual Human Embodiment project computationally models the relation between mind and body. One outcome of this research is Cerebella, a framework for automated generation of virtual human.
 
-## Ingredients
+### Personnel
 
-* 1 cup unsalted butter
-* 1 cup crunchy peanut butter
-* 1 cup white sugar
-* 1 cup packed brown sugar
-* 2 eggs 2
-* 1/2 cups all-purpose flour
-* 1 teaspoon baking powder
-* 1/2 teaspoon salt
-* 1 1/2 teaspoons baking soda
+* Stacy Marsella, PhD
+* Teresa Dey, MFA
+* Margot Lhommet, PhD
+* Chung-Cheng Chiu, PhD Student
+* Mostafa Elshamy, PhD Student
 
-## Directions
+### Former Personnel:
+* Jina Lee, PhD
+* Brent Lance, PhD
 
-1. Cream butter, peanut butter, and sugars together in a bowl; beat in eggs.
-2. In a separate bowl, sift flour, baking powder, baking soda, and salt; stir into butter mixture. Put dough in refrigerator for 1 hour.
-3. Roll dough into 1 inch balls and put on baking sheets. Flatten each ball with a fork, making a crisscross pattern. Bake in a preheated 375 degrees F oven for about 10 minutes or until cookies begin to brown.
+### <a href="https://web.northeastern.edu/cesar/?page_id=187"> Publication </a>

@@ -265,6 +265,9 @@ collections:
   team:
     output: true
     permalink: /:collection/:path/
+  news:
+    output: true
+    permalink: /:collection/:path/
 
 scholar:
   style: apa
