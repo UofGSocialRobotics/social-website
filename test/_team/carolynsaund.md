@@ -15,7 +15,9 @@ sidebar:
     text: <a href="http://carolynsaund.me">Carolyn Saund</a>
 ---
 
-My current work is creating a generative gesture system for virtual humans to study how gesture can help virtual and robotic agents better communicate with humans, and instill trust during human-agent interactions. At the same time, I am using combined MEG and fMRI imaging to determine how our brain integrates features of motion in visual perception to make judgements about the communicative meaning of these gestures. In this sense, I hope to make both a “bottom-up” neurological and a “top-down” behavioral analysis of gestural communication to obtain a fuller picture of human-agent communication.
+Carolyn's current work is creating a generative gesture system for virtual humans to study how gesture can help virtual and robotic agents better communicate with humans, and instill trust during human-agent interactions. She is simultaneously using combined MEG and fMRI imaging to determine how the brain integrates features of motion in visual perception to make judgements about the semantic meaning of these gestures. In this sense, she is taking both a “bottom-up” neurological and a “top-down” behavioral analysis of gestural communication to obtain a fuller picture of human-agent communication.
+
+Prior to starting at Glasgow, Carolyn obtained her BSc. in Computer Science and Cognitive and Brain Sciences from Tufts University in Somerville, Massachusetts. Afterwards, she worked in Boston as a software engineer and technical lead at social robotics company <a href="https://www.jibo.com"> Jibo Inc. </a> and emotional AI company <a href="https://www.cogitocorp.com"> Cogito. </a>
 
 
 

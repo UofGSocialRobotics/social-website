@@ -47,7 +47,7 @@ grads:
     url: "/team/carolynsaund"
     excerpt: 'PhD Student'
 undergrads:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/marionroth.jpg
     alt: "Mary Roth"
     title: "Mary Roth"
     excerpt: '4th Year Student at University of Strathclyde'

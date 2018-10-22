@@ -3,10 +3,10 @@ title: "Mary Roth"
 excerpt: "Undergraduate"
 role: "Undergraduate"
 header:
-  teaser: assets/images/unsplash-gallery-image-3-th.jpg
+  teaser: assets/images/marionroth.jpg
 sidebar:
-  - title: "Undergraduate"
-    image: http://placehold.it/350x250
+  - title: "4th Year Undergraduate"
+    image: assets/images/marionroth.jpg
     image_alt: "logo"
     text: "Psychological Science"
 gallery:
