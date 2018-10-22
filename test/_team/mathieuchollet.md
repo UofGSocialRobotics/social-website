@@ -14,6 +14,7 @@ sidebar:
 
 Mathieu's goal is to explore and improve innovative applications that help understand people. His current research focuses on building machine learning models to evaluate in real-time social skills and social anxiety from automatically extracted vocal, verbal and non-verbal behavior of users. In parallel, He builds applications that help users train their social skills through social simulations involving virtual characters.
 
+{% bibliography --query @*[author~=Chollet] %}
 
 
 <!-- uncomment this and put in above yaml for gallery -->
